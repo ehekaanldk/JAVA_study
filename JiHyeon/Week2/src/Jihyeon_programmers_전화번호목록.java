@@ -30,5 +30,6 @@ class Solution {
             }
 
             return true;  // 접두사 없음
+
     }
 }
